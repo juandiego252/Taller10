@@ -16,3 +16,5 @@ https://laboratorio-9-8t3f.onrender.com/ <br>
 
 # Página de productos
 ![imagen](https://github.com/Miguel-Paredes/Paredes-Miguel-Laboratorio-9/assets/117743367/d8c2fa7b-2012-4f74-94fa-7f1210ae67fa)
+
+# Link Render: https://labweb-6ium.onrender.com
